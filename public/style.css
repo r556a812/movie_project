@@ -1,0 +1,29 @@
+.head {
+    background-color: red;
+    top:0;
+    left:0;
+    height:175px;
+    width: 100%;
+
+    text-align: center;
+    color: aqua;
+    font-size: 75px;
+    border-bottom-left-radius: 125px;
+    border-bottom-right-radius: 125px;
+}
+
+#search-bar h2{
+    position: relative;
+    font-size: 18px;
+    text-align: center;
+}
+
+#search-bar input {
+    position: relative;
+    left:40%;
+}
+
+#search-bar button {
+    position: relative;
+    left: 42%;
+}
